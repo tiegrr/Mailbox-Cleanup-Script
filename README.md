@@ -1,3 +1,5 @@
-# PowerShell
+# Exchange Online Mailbox Cleanup Script
 
-A place to put my PowerShell projects for Exchange Management, etc..
+A menu used to clean out the deleted items / recoverable items as well as show mailbox statistics.
+
+When affected mailbox user deletes too many items at once from the "Deleted Items" folder so recoverable items gets "clogged".
